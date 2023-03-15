@@ -1,0 +1,7 @@
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\ConsoleApplication\StructuresDemo\bin\Debug\StructuresDemo.exe.config
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\ConsoleApplication\StructuresDemo\bin\Debug\StructuresDemo.exe
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\ConsoleApplication\StructuresDemo\bin\Debug\StructuresDemo.pdb
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\ConsoleApplication\StructuresDemo\obj\Debug\StructuresDemo.csproj.AssemblyReference.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\ConsoleApplication\StructuresDemo\obj\Debug\StructuresDemo.csproj.CoreCompileInputs.cache
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\ConsoleApplication\StructuresDemo\obj\Debug\StructuresDemo.exe
+C:\Users\158143\OneDrive - Arrow Electronics, Inc\Desktop\Dotnet_ConsoleApp\ConsoleApplication\StructuresDemo\obj\Debug\StructuresDemo.pdb
